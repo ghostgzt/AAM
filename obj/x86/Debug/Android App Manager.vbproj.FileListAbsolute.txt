@@ -1,1 +1,0 @@
-F:\Code\Git\AAM\obj\x86\Debug\Android App Manager.vbprojResolveAssemblyReference.cache
